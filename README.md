@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Latthika S</h1>
-<h3 align="center">A AI enthusiast from India.</h3>
+<h3 align="center">An AI enthusiast from India.</h3>
 
-- 💬 Ask me about **ml, dl and AI.**
+- 💬 Ask me about **machine learning , deep learning and AI.**
 
 - 📫 How to reach me **latthikas@gmail.com**
 
